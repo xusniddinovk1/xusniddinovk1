@@ -1,5 +1,7 @@
 👋 Hi, I’m Komronbek Xusniddinov
+
 😄 Pronouns: He/him
+
 🚀 Technologies & Tools I Use:
 
 - Languages: Python
