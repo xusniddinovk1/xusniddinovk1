@@ -8,7 +8,7 @@
 - Frameworks: Django
 - Databases: SQLlite, PostgreSQL
 - Tools: Git, Docker, AWS, CI/CD
-- 
+
 🌱 What I'm Learning:
 
 I'm constantly trying to expand my knowledge and skills. Currently, I'm diving deeper into:
