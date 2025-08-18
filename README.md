@@ -5,7 +5,7 @@
 🚀 Technologies & Tools I Use:
 
 - Languages: Python
-- Frameworks: Django
+- Frameworks: Django, Django Rest Framework
 - Databases: SQLlite, PostgreSQL
 - Tools: Git, Docker, AWS, CI/CD
 
@@ -13,7 +13,4 @@
 
 I'm constantly trying to expand my knowledge and skills. Currently, I'm diving deeper into:
 
-- Machine Learning and Artificial Intelligence
-- Cloud Computing (AWS, )
-- Data Science
 - HTML, CSS, JavaScript, React
