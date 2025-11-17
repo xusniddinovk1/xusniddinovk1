@@ -1,72 +1,71 @@
 <h1 align="center">👋 Hi, I'm Komronbek</h1>
 
 <p align="center">
-  <b>Python Backend Developer | FastAPI | Django | REST APIs | Microservices</b>
+  <b>Python Backend Developer | Django | REST APIs | Microservices</b>
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 I specialize in building backend systems, microservices, and high-load server architectures.  
 Clean code, reliable APIs, and scalable architecture are my top priorities.
 
 - 🐍 Python backend developer  
 - ⚙️ REST API, authentication, background tasks, and worker processes  
 - 🧩 Clean Architecture, service-layer patterns, scalable design  
-- 🛠 Core stack: **Python, FastAPI, Django, DRF, PostgreSQL, Redis, Celery, Docker**
+- 🛠 Core stack: Python, Django, DRF, PostgreSQL, Redis, Docker
 
 ---
 
 ## 🧰 Technologies
 
 ### 🌐 Backend
-`Python` • `FastAPI` • `Django` • `Django REST Framework` • `SQLAlchemy`
+Python • FastAPI • Django • Django REST Framework • SQLAlchemy
 
 ### 🗄 Databases
-`PostgreSQL` • `Redis` • `Celery`
+PostgreSQL • Redis • Celery
 
 ### 🛠 DevOps / Tools
-`Docker` • `Nginx` • `Gunicorn` • `CI/CD` • `Linux` • `Git` • `Postman`
+Docker • Nginx • Gunicorn • CI/CD • Git
 
 ### 🎨 Frontend (Secondary)
-`HTML` • `CSS` • `SASS` • `JavaScript`
+HTML • CSS • SASS • JavaScript
 
 ---
 
-## 🏆 GitHub Statistics (Dark Theme, Premium)
+##  GitHub Statistics
 
 ### 📝 Profile Details
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusniddinovk&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusniddinovk1&theme=dark" />
 </p>
 
 ### 📈 Overall Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xusniddinovk&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xusniddinovk1&theme=dark" />
 </p>
 
-### 🧩 Top Languages (Donut Vertical — 3D style)
+### 🧩 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xusniddinovk&layout=donut-vertical&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xusniddinovk1&layout=donut-vertical&theme=dark" />
 </p>
 
 ---
 
 ## 🔗 Contact
-- 📸 Instagram: **@komrondev**  
-- 💼 LinkedIn: **linkedin.com/in/komronbek-xusniddinov**  
-- 🌐 Portfolio: **Coming Soon…**
+- 📸 Instagram: [_justkamron](https://www.instagram.com/_justkamron)  
+- 💼 LinkedIn: [linkedin.com/in/komronbek-xusniddinov](https://www.linkedin.com/in/komronbek-xusniddinov-136492374)  
+- 🌐 Portfolio: Coming Soon…
 
 ---
 
-## ⚡ Badges
+## ⚡️ Badges
 <p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-006400?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -77,9 +76,7 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Gunicorn-000000?style=for-the-badge&logo=gunicorn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -87,7 +84,3 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
----
-
-<h3 align="center">⭐ If you like my profile, feel free to follow my repositories!</h3>
