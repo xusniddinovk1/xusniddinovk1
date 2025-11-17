@@ -1,16 +1,30 @@
 <h1 align="center">Salom, men Komronbek 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer | JavaScript | React | Startup enthusiast</b>
+  <b>Python Backend Developer | FastAPI | Django | REST APIs</b>
 </p>
 
 ---
 
-### 👨‍💻 Men haqimda qisqacha
-- 🚀 Startup va texnologiyaga qiziqaman  
-- 💻 Frontend yo‘nalishida ishlayman  
-- 📚 Doimiy o‘rganish — mening odatim  
-- 🛠 React, JS va UI/UX borasida loyihalar qilaman  
+### 👨‍💻 Men haqimda
+- 🐍 Python backend dasturchisi  
+- ⚙️ Microservices, REST API, authentication va clean architecture bilan ishlayman  
+- 🚀 Startup va real loyihalar yaratishga qiziqaman  
+- 📚 Backend tizimlar, optimizatsiya va database design o‘rganaman  
+- 🛠 Asosiy stack: **Python, FastAPI, Django, PostgreSQL, Redis, Docker**
+
+---
+
+## 🧰 Texnologiyalar
+
+### Backend
+`Python` • `FastAPI` • `Django` • `Django REST Framework` • `SQLAlchemy`
+
+### Ma’lumotlar bazasi  
+`PostgreSQL` • `MySQL` • `Redis`
+
+### DevOps / Tools  
+`Docker` • `Git` • `Linux` • `Nginx` • `CI/CD`
 
 ---
 
@@ -33,13 +47,13 @@
 
 ---
 
-## 🔗 Mening bog‘lanishlarim
+## 🔗 Bog‘lanishlar
 - 📸 Instagram: **@komrondev**
 - 💼 LinkedIn: **linkedin.com/in/komronbek-xusniddinov**
-- 🌐 Portfolio: **Yaqinda qo‘shiladi…**
+- 🌐 Portfolio: **Tez kunda…**
 
 ---
 
 <p align="center">
-  ⭐ Agar profilim yoqqan bo‘lsa, reposlarimni kuzatib boring!
+  ⭐ Profilim yoqqan bo‘lsa, reposlarimni kuzatib boring!
 </p>
