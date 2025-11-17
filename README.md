@@ -21,31 +21,31 @@
 `HTML` • `CSS` • `SASS` • `JavaScript`
 
 ### Backend
-`Python` • `Django` • `Django REST Framework`
+`Python` • `Django` • `Django REST Framework` • `FastAPI`
 
 ### Ma’lumotlar bazasi  
 `PostgreSQL` • `Redis` • `Celery`
 
 ### DevOps / Tools  
-`Docker` • `Git` • `Nginx` • `CI/CD`, `Gunicorn`
+`Docker` • `Git` • `Nginx` • `CI/CD` • `Gunicorn`
 
 ---
 
-## 📊 GitHub Statistika
+## 📊 GitHub Statistika (Yangi, sifatli variant)
 
-### 🔥 Streak Stats  
+### 📝 Profil tafsilotlari
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xusniddinovk&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusniddinovk&theme=default" />
 </p>
 
-### 📈 Umumiy statistika  
+### 📈 Statistika
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xusniddinovk&show_icons=true&count_private=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xusniddinovk&theme=default" />
 </p>
 
-### 🧩 Eng ko‘p ishlatiladigan tillar  
+### 🧩 Tillar bo‘yicha
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xusniddinovk&layout=compact" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xusniddinovk&theme=default" />
 </p>
 
 ---
