@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I specialize in building backend systems, microservices, and high-load server architectures.  
 Clean code, reliable APIs, and scalable architecture are my top priorities.
 
@@ -53,8 +53,8 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
 ---
 
 ## 🔗 Contact
-- 📸 Instagram: **_justkamron**  
-- 💼 LinkedIn: **linkedin.com/in/komronbek-xusniddinov**  
+- 📸 Instagram: **[_justkamron](https://www.instagram.com/_justkamron)**  
+- 💼 LinkedIn: **[linkedin.com/in/komronbek-xusniddinov](https://www.linkedin.com/in/komronbek-xusniddinov-136492374)**  
 - 🌐 Portfolio: **Coming Soon…**
 
 ---
@@ -63,10 +63,9 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
 <p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-006400?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -77,7 +76,6 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Gunicorn-000000?style=for-the-badge&logo=gunicorn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
   <!-- Frontend -->
