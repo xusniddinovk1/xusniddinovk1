@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Komronbek</h1>
 
 <p align="center">
-  <b>Python Backend Developer | FastAPI | Django | REST APIs | Microservices</b>
+  <b>Python Backend Developer | Django | REST APIs | Microservices</b>
 </p>
 
 ---
@@ -13,7 +13,7 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
 - 🐍 Python backend developer  
 - ⚙️ REST API, authentication, background tasks, and worker processes  
 - 🧩 Clean Architecture, service-layer patterns, scalable design  
-- 🛠 Core stack: **Python, FastAPI, Django, DRF, PostgreSQL, Redis, Docker**
+- 🛠 Core stack: **Python, Django, DRF, PostgreSQL, Redis, Docker**
 
 ---
 
@@ -26,7 +26,7 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
 `PostgreSQL` • `Redis` • `Celery`
 
 ### 🛠 DevOps / Tools
-`Docker` • `Nginx` • `Gunicorn` • `CI/CD` • `Linux` • `Git`
+`Docker` • `Nginx` • `Gunicorn` • `CI/CD` • `Git`
 
 ### 🎨 Frontend (Secondary)
 `HTML` • `CSS` • `SASS` • `JavaScript`
@@ -53,7 +53,7 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
 ---
 
 ## 🔗 Contact
-- 📸 Instagram: **@komrondev**  
+- 📸 Instagram: **_justkamron**  
 - 💼 LinkedIn: **linkedin.com/in/komronbek-xusniddinov**  
 - 🌐 Portfolio: **Coming Soon…**
 
