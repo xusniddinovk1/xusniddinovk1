@@ -35,17 +35,17 @@
 
 ### 📝 Profil tafsilotlari
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusniddinovk&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusniddinovk1&theme=default" />
 </p>
 
 ### 📈 Statistika
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xusniddinovk&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xusniddinovk1&theme=default" />
 </p>
 
 ### 🧩 Tillar bo‘yicha
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xusniddinovk&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xusniddinovk1&theme=default" />
 </p>
 
 ---
