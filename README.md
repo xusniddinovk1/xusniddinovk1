@@ -17,19 +17,19 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
 
 ---
 
-## 🧰 Technologies
+## Technologies
 
 ### 🌐 Backend
-Python • FastAPI • Django • Django REST Framework • SQLAlchemy
+`Python` • `Django` • `Django REST Framework`
 
 ### 🗄 Databases
-PostgreSQL • Redis • Celery
+`PostgreSQL` • `SQLite` • `Redis` • `Celery`
 
 ### 🛠 DevOps / Tools
-Docker • Nginx • Gunicorn • CI/CD • Git
+`Docker` • `Nginx` • `Gunicorn` • `CI/CD` • `Git`
 
 ### 🎨 Frontend (Secondary)
-HTML • CSS • SASS • JavaScript
+`HTML` • `CSS` • `SASS` • `JavaScript`
 
 ---
 
