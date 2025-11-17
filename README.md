@@ -1,62 +1,62 @@
-<h1 align="center">Salom, men Komronbek 👋</h1>
+<h1 align="center">👋 Salom, men Komronbek</h1>
 
 <p align="center">
-  <b>Python Backend Developer | FastAPI | Django | REST APIs</b>
+  <b>Senior-level mindset | Python Backend Developer | REST APIs | Microservices</b>
 </p>
 
 ---
 
-### 👨‍💻 Men haqimda
-- 🐍 Python backend dasturchisi  
-- ⚙️ Microservices, REST API, authentication va clean architecture bilan ishlayman  
-- 🚀 Startup va real loyihalar yaratishga qiziqaman  
-- 📚 Backend tizimlar, optimizatsiya va database design o‘rganaman  
-- 🛠 Asosiy stack: **Python, FastAPI, Django, PostgreSQL, Redis, Docker**
+## 🚀 Men haqimda
+Backend arxitekturasi, mikroservislar va yuqori yuklamali tizimlar yaratishga ixtisoslashgan Python backend dasturchisiman.  
+Sifatli kod, toza arxitektura va samarali tizim dizayn — mening ustuvor yo‘nalishlarim.
+
+- 🐍  Python backend developer  
+- ⚙️  REST API, autentifikatsiya, background tasks, mikroservislar  
+- 🧩  Clean Architecture & scalable backend strukturalari  
+- 🛠  Asosiy stack: **Python, FastAPI, Django, DRF, PostgreSQL, Redis, Docker**
 
 ---
 
-## 🧰 Texnologiyalar
+## 🧰 Texnologiyalarim
 
-### Frontend
-`HTML` • `CSS` • `SASS` • `JavaScript`
+### 🌐 Backend
+`Python` • `FastAPI` • `Django` • `Django REST Framework` • `SQLAlchemy`
 
-### Backend
-`Python` • `Django` • `Django REST Framework` • `FastAPI`
-
-### Ma’lumotlar bazasi  
+### 🗄 Ma’lumotlar bazasi  
 `PostgreSQL` • `Redis` • `Celery`
 
-### DevOps / Tools  
-`Docker` • `Git` • `Nginx` • `CI/CD` • `Gunicorn`
+### 🛠 DevOps / Tools  
+`Docker` • `Nginx` • `CI/CD` • `Linux` • `Git` • `Gunicorn`
+
+### 🎨 Frontend (asosiy emas)
+`HTML` • `CSS` • `SASS` • `JavaScript`
 
 ---
 
-## 📊 GitHub Statistika (Yangi, sifatli variant)
+## 📊 Backend Developer uchun mukammal GitHub statistikalar
 
-### 📝 Profil tafsilotlari
+### 🔍 Profil tafsilotlari
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusniddinovk1&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusniddinovk&theme=github" />
 </p>
 
-### 📈 Statistika
+### 📈 Umumiy statistika
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xusniddinovk1&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xusniddinovk&theme=github" />
 </p>
 
-### 🧩 Tillar bo‘yicha
+### 🧩 Tillar bo‘yicha taqsimot
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xusniddinovk1&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xusniddinovk&theme=github" />
 </p>
 
 ---
 
-## 🔗 Bog‘lanishlar
+## 📬 Bog‘lanish
 - 📸 Instagram: **@komrondev**
 - 💼 LinkedIn: **linkedin.com/in/komronbek-xusniddinov**
-- 🌐 Portfolio: **Tez kunda…**
+- 📂 Portfolio: **Tez orada qo‘shiladi**
 
 ---
 
-<p align="center">
-  ⭐ Profilim yoqqan bo‘lsa, reposlarimni kuzatib boring!
-</p>
+<h3 align="center">⭐ Agar profilim foydali bo‘lsa, reposlarimni kuzatib boring!</h3>
