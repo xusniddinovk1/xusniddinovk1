@@ -17,14 +17,17 @@
 
 ## 🧰 Texnologiyalar
 
+### Frontend
+`HTML` • `CSS` • `SASS` • `JavaScript`
+
 ### Backend
-`Python` • `FastAPI` • `Django` • `Django REST Framework` • `SQLAlchemy`
+`Python` • `Django` • `Django REST Framework`
 
 ### Ma’lumotlar bazasi  
-`PostgreSQL` • `MySQL` • `Redis`
+`PostgreSQL` • `Redis` • `Celery`
 
 ### DevOps / Tools  
-`Docker` • `Git` • `Linux` • `Nginx` • `CI/CD`
+`Docker` • `Git` • `Nginx` • `CI/CD`, `Gunicorn`
 
 ---
 
