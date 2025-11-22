@@ -37,17 +37,17 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
 
 ### 📝 Profile Details
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusniddinovk1&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusniddinovk1&theme=white" />
 </p>
 
 ### 📈 Overall Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xusniddinovk1&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xusniddinovk1&theme=white" />
 </p>
 
 ### 🧩 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xusniddinovk1&layout=donut-vertical&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xusniddinovk1&layout=donut-vertical&theme=white" />
 </p>
 
 ---
