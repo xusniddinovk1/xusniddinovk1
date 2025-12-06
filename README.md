@@ -13,7 +13,7 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
 - 🐍 Python backend developer  
 - ⚙️ REST API, authentication, background tasks, and worker processes  
 - 🧩 Clean Architecture, service-layer patterns, scalable design  
-- 🛠 Core stack: Python, Django, DRF, PostgreSQL, Redis, Docker
+- 🛠 Core stack: Python, Django, DRF, PostgreSQL, Docker
 
 ---
 
@@ -23,7 +23,7 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
 `Python` • `Django` • `Django REST Framework`
 
 ### 🗄 Databases
-`PostgreSQL` • `SQLite` • `Redis` • `Celery`
+`PostgreSQL` • `SQLite`
 
 ### 🛠 DevOps / Tools
 `Docker` • `Nginx` • `Gunicorn` • `CI/CD` • `Git`
