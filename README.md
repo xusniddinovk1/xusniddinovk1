@@ -28,7 +28,7 @@ Clean code, reliable APIs, and scalable architecture are my top priorities.
 ### 🛠 DevOps / Tools
 `Docker` • `Nginx` • `Gunicorn` • `CI/CD` • `Git`
 
-### 🎨 Frontend (Secondary)
+### 🎨 Frontend
 `HTML` • `CSS` • `SASS` • `JavaScript`
 
 ---
