@@ -7,11 +7,11 @@
 ---
 
 ##  About Me
-I specialize in building backend systems, microservices, and high-load server architectures.  
-Clean code, reliable APIs, and scalable architecture are my top priorities.
+I specialize in building backend systems, microservices and high-load server architectures.  
+Clean code, reliable APIs and scalable architecture are my top priorities.
 
 - 🐍 Python backend developer  
-- ⚙️ REST API, authentication, background tasks, and worker processes  
+- ⚙️ REST API, authentication, background tasks and worker processes  
 - 🧩 Clean Architecture, service-layer patterns, scalable design  
 - 🛠 Core stack: Python, Django, DRF, PostgreSQL, Docker
 
