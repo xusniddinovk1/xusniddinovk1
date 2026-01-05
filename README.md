@@ -5,8 +5,8 @@
 </div>
 <div align="center">
 
-🚀 **Backend Developer (Junior)**
-Python • Django • REST API
+  **Python Backend Developer | Django | REST APIs | Microservices**
+
 
 </div>
 
