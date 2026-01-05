@@ -6,57 +6,9 @@
 
 ---
 
-##  About Me
-I specialize in building backend systems, microservices and high-load server architectures.  
-Clean code, reliable APIs and scalable architecture are my top priorities.
-
-- 🐍 Python backend developer  
-- ⚙️ REST API, authentication, background tasks and worker processes  
-- 🧩 Clean Architecture, service-layer patterns, scalable design  
-- 🛠 Core stack: Python, Django, DRF, PostgreSQL, Docker
-
----
-
-## Technologies
-
-### 🌐 Backend
-`Python` • `Django` • `Django REST Framework`
-
-### 🗄 Databases
-`PostgreSQL` • `SQLite`
-
-### 🛠 DevOps / Tools
-`Docker` • `Nginx` • `Gunicorn` • `CI/CD` • `Git`
-
-### 🎨 Frontend
-`HTML` • `CSS` • `SASS` • `JavaScript`
-
----
-
-##  GitHub Statistics
-
-### 📝 Profile Details
+## ⚡️ Technologies
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusniddinovk1&theme=dark" />
-</p>
-
-### 📈 Overall Stats
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xusniddinovk1&theme=dark" />
-</p>
-
----
-
-## 🔗 Contact
-- 📸 Instagram: [_justkamron](https://www.instagram.com/_justkamron)  
-- 💼 LinkedIn: [linkedin.com/in/komronbek-xusniddinov](https://www.linkedin.com/in/komronbek-xusniddinov-136492374)  
-- 🌐 Portfolio: Coming Soon…
-
----
-
-## ⚡️ Badges
-<p align="center">
-  <!-- Backend -->
+  Backend
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -79,3 +31,25 @@ Clean code, reliable APIs and scalable architecture are my top priorities.
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+
+
+##  GitHub Statistics
+
+### 📝 Profile Details
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusniddinovk1&theme=dark" />
+</p>
+
+### 📈 Overall Stats
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xusniddinovk1&theme=dark" />
+</p>
+
+---
+
+## 🔗 Contact
+- 📸 Instagram: [_justkamron](https://www.instagram.com/_justkamron)  
+- 💼 LinkedIn: [linkedin.com/in/komronbek-xusniddinov](https://www.linkedin.com/in/komronbek-xusniddinov-136492374)  
+- 🌐 Portfolio: Coming Soon…
+
+---
