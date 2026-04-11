@@ -46,7 +46,6 @@
 ### ⚙️ DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-2496ED?style=for-the-badge\&logo=nginx\&logoColor=white)
 
@@ -78,9 +77,3 @@
 * 📧 Email: [kxprogrammer1@gmail.com](mailto:kxprogrammer1@gmail.com)
 
 ---
-
-<div align="center">
-
-⭐ If you like my profile, don’t forget to **star** my repositories!
-
-</div>
