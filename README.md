@@ -8,7 +8,7 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=xusniddinovk1&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true" alt="Komronbeks's GitHub Stats" height="195px" />
+        <img src="https:/github-readme-stats-opal-kappa-37.vercel.app/api?username=xusniddinovk1&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true)" alt="Komronbek's GitHub Stats" height="195px" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=xusniddinovk1&theme=dark" alt="Komronbek's GitHub Streak" height="195px" />
