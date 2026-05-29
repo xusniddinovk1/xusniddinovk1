@@ -1,79 +1,26 @@
+# Komronbek Xusniddinov 👋
+
+## Backend Developer • Python • AI
+
+---
+
 <div align="center">
-
-# 👋 Hi, I'm **Komronbek Xusniddinov**
-
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=xusniddinovk1&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true" alt="Komronbeks's GitHub Stats" height="195px" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=xusniddinovk1&theme=dark" alt="Komronbek's GitHub Streak" height="195px" />
+      </td>
+    </tr>
+  </table>
 </div>
-<div align="center">
-
-  **Python Backend Developer | Django | REST APIs | Microservices**
-
-
-</div>
 
 ---
 
-## 🧑‍💻 About Me
+### 🛠️ Tech Stack & Tools
 
-* 🐍 Backend developer focused on **Python & Django**
-* 🧱 I care about **clean architecture**, scalability, and maintainable code
-* 🔐 Experience with authentication, roles, permissions, and business logic
-* 🌐 Build REST APIs using **Django REST Framework**
-* 📈 Interested in backend performance, security, and best practices
-* 🎯 Goal: grow into a strong **Fullstack developer**
-
----
-
-## 🛠 Tech Stack
-
-### 🔙 Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge\&logo=django\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
----
-
-### 🎨 Frontend (Basic Knowledge)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
----
-
-### ⚙️ DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-2496ED?style=for-the-badge\&logo=nginx\&logoColor=white)
-
----
-
-## 📚 Currently, I'm learning
-* 🎨 Frontend
-* 🧠 Django advanced topics (signals, celery, caching)
-* 🏗 Backend architecture & design patterns
-* 🔒 Web security & authentication (JWT, OAuth)
-* 🐳 Docker & deployment basics
-
----
-
-## 🗺 Backend Roadmap
-
-* ✅ Python core & OOP
-* ✅ Django fundamentals
-* ✅ REST API (DRF)
-* 🔄 Testing (PyTest, Unit tests)
-* 🔄 Caching & optimization
-* ⏳ Microservices & async (Celery, Redis)
-
----
-
-## 📫 Contact Me
-
-* 💬 Telegram: [@xusniddinovk](https://t.me/xusniddinovk)
-* 📧 Email: [kxprogrammer1@gmail.com](mailto:kxprogrammer1@gmail.com)
-
----
+| Core & Frontend | Backend & Databases | Cloud & Tools |
+| :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> |
