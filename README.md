@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Komronbek Xusniddinov
 </h1>
----
 
 ## 👨‍💻 About Me
 
