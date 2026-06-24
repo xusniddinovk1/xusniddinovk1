@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm a **Backend Developer** focused on building clean, scalable web APIs
+- 🔭 I'm a **Python Backend Developer** focused on building clean, scalable web APIs
 - 🌱 I work with **Django**, **DRF**, **FastAPI** and modern deployment tools
 - ⚡ I enjoy turning complex business logic into elegant backend systems
 - 📍 Based in **Uzbekistan**
@@ -20,7 +20,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
